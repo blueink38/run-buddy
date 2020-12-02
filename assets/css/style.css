@@ -79,3 +79,14 @@
         background-position: center;
     }
     /* Hero Style End */
+
+    .hero-form {
+        border: solid 3px #024e76;
+        background-color: #fce138;
+        padding: 20px;
+        width: 500px;
+        color: #024e76;
+        position: absolute;
+        bottom: 0px;
+        right: 0px;        
+    }
