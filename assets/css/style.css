@@ -145,7 +145,7 @@
     }
     /* hero styles end */
 
-    /* start what we do sction */
+    /* start what we do section */
     .intro {
         text-align: center;
     }
@@ -169,6 +169,11 @@
     }
 
     .steps img {
+        width: 15%;
+        margin: 10px 0;
+    }
+
+    .steps h3 {
         color: #024e76;
         font-size: 46px;
         margin-top: 10px;
