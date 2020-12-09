@@ -350,6 +350,25 @@
         display: flex;
     }
 
+    /* start grid container */
+    .service-grid-container {
+      display: grid;
+    }
+
+    .service-grid-item {
+      width: 200px;
+      height: 50px;
+      background-color: orange;
+      border: solid;
+      color: black;
+    }
+
+    /* end grid container */
+
+
+
+
+  /* start media query */
     /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
     header {
@@ -459,3 +478,4 @@
       }
 
 }
+  /* end media query */
