@@ -338,14 +338,28 @@
     
     .trainer {
         margin: 20px;
-        background: var(--secondary-color);
         color: var(--primary-color);
+        background: var(--secondary-color);
         flex: 1;
     }
 
-    .trainer img {
+    .trainer-img {
         width: 100%;
+        min-height: 300px;
     }
+
+    .trainer-1 {
+      background-image: url("../images/trainer-1.jpg")
+    }
+
+    .trainer-2 {
+      background-image: url("../images/trainer-2.jpg")
+    }
+
+    .trainer-3 {
+      background-image: url("../images/trainer-3.jpg")
+    }
+
 
     .trainer-bio {
         padding: 25px;
